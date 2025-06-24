@@ -127,6 +127,6 @@ void PortalSystem::updateCooldowns() {
         }
     }
     if (has_cooldowns) {
-        std::cout << "\n--------------------------------" << std::endl;
+        std::cout << "\n!!" << std::endl;
     }
 }
